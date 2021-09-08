@@ -6,5 +6,5 @@ It is an openCv project on analyzing and Segmenting various shapes in a given im
 
 Task -2 - Sentiment Analysis
 
-It is an Natural Language Processing project o determining whether the text given as reviews are positive , neutral or negative
+It is an Natural Language Processing project to determining whether the text given as reviews are positive , neutral or negative
 
